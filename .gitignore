@@ -1,0 +1,11 @@
+*.pdf
+*.csv
+*.txt
+*.zip
+*.idx
+*.json
+*.dat
+*.vim
+*.index
+*.lock
+*.swp
